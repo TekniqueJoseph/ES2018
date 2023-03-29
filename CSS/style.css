@@ -18,8 +18,7 @@ h1:hover{
 .navmenu{
     display: flex;
     justify-content: space-between;
-    align-self: center;
-    margin-bottom: 55px;
+    align-items: center;
 }
 ul{
     display: flex;
