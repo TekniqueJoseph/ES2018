@@ -1,4 +1,4 @@
-// Spread Operator - With array
+// Spread Operator - With Array
 const array = [1,2,3,4,5,];
 const sum = ((a,b,c,d,e) =>{
     return a+b+c+d+e;
